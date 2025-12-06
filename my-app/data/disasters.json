@@ -1,0 +1,123 @@
+{
+  "active_warnings": [
+    {
+      "type": "Hurricane Warning",
+      "area": "Coastal Region",
+      "severity": "severe",
+      "issued": "2025-12-06T08:00:00",
+      "description": "Category 3 hurricane expected to make landfall within 24 hours. Evacuate coastal areas immediately. Sustained winds up to 120 mph expected."
+    },
+    {
+      "type": "Flood Watch",
+      "area": "River Valley",
+      "severity": "moderate",
+      "issued": "2025-12-06T10:30:00",
+      "description": "Heavy rainfall may cause river flooding. Avoid low-lying areas and be prepared to move to higher ground."
+    },
+    {
+      "type": "Heat Advisory",
+      "area": "Metropolitan Area",
+      "severity": "moderate",
+      "issued": "2025-12-06T06:00:00",
+      "description": "Excessive heat with temperatures reaching 105°F. Stay hydrated and limit outdoor activities."
+    }
+  ],
+  "shelters": [
+    {
+      "name": "Central Community Center",
+      "address": "123 Main Street, Downtown",
+      "phone": "(555) 123-4567",
+      "capacity": 500,
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "facilities": ["Medical care", "Food", "Water", "Pet-friendly", "ADA accessible"]
+    },
+    {
+      "name": "North High School Gymnasium",
+      "address": "456 Oak Avenue, Northside",
+      "phone": "(555) 234-5678",
+      "capacity": 350,
+      "latitude": 34.0822,
+      "longitude": -118.2737,
+      "facilities": ["Food", "Water", "Showers", "ADA accessible"]
+    },
+    {
+      "name": "South Park Recreation Center",
+      "address": "789 Park Boulevard, Southside",
+      "phone": "(555) 345-6789",
+      "capacity": 400,
+      "latitude": 34.0222,
+      "longitude": -118.2137,
+      "facilities": ["Medical care", "Food", "Water", "Pet-friendly", "Power charging"]
+    },
+    {
+      "name": "West Community Church",
+      "address": "321 Church Road, Westside",
+      "phone": "(555) 456-7890",
+      "capacity": 200,
+      "latitude": 34.0522,
+      "longitude": -118.2837,
+      "facilities": ["Food", "Water", "Childcare", "ADA accessible"]
+    },
+    {
+      "name": "East Valley Emergency Shelter",
+      "address": "654 Valley Drive, Eastside",
+      "phone": "(555) 567-8901",
+      "capacity": 450,
+      "latitude": 34.0522,
+      "longitude": -118.2037,
+      "facilities": ["Medical care", "Food", "Water", "Pet-friendly", "Mental health support", "ADA accessible"]
+    },
+    {
+      "name": "Riverside Convention Center",
+      "address": "987 River Road, Riverside",
+      "phone": "(555) 678-9012",
+      "capacity": 800,
+      "latitude": 34.0722,
+      "longitude": -118.2437,
+      "facilities": ["Medical care", "Food", "Water", "Showers", "Power charging", "ADA accessible"]
+    }
+  ],
+  "emergency_contacts": [
+    {
+      "name": "Emergency Services",
+      "phone": "911",
+      "description": "Fire, Police, Medical emergencies"
+    },
+    {
+      "name": "Red Cross",
+      "phone": "1-800-RED-CROSS",
+      "description": "Disaster relief and shelter"
+    },
+    {
+      "name": "FEMA",
+      "phone": "1-800-621-3362",
+      "description": "Federal disaster assistance"
+    },
+    {
+      "name": "Poison Control",
+      "phone": "1-800-222-1222",
+      "description": "24/7 poison emergency"
+    },
+    {
+      "name": "National Weather Service",
+      "phone": "1-800-342-3954",
+      "description": "Weather alerts and forecasts"
+    },
+    {
+      "name": "Local Emergency Management",
+      "phone": "(555) 000-1234",
+      "description": "County disaster coordination"
+    },
+    {
+      "name": "Gas Company Emergency",
+      "phone": "1-800-427-2000",
+      "description": "Gas leak reporting"
+    },
+    {
+      "name": "Power Company Emergency",
+      "phone": "1-800-611-1911",
+      "description": "Power outage reporting"
+    }
+  ]
+}
